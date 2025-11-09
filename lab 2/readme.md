@@ -9,8 +9,6 @@ Projects
 Personal Portfolio Website
 Calorie Tracking Web App (made using vibe coding)
 Registration Form
-Skills
-HTML
 How to Check
 Download or clone this repository.
 Add a image.png file for the profile picture in the same folder as index.html.
